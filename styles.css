@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(255, 0, 251);
+color: black;
+font-family: "Playpen Sans", cursive;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
