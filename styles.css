@@ -18,3 +18,13 @@ color: blueviolet;
 
 
 }
+
+.passo{
+display: none;
+
+}
+
+.passo.ativo{
+display: block;
+
+}
